@@ -1,5 +1,5 @@
- Feature: Create and Delete Org
-  Scenario: User logs in, creates org and delete the org
+ Feature: Settings-> Organization Configuration
+  Scenario: User logs in, Configures Organization Setup and Chef Server
     Given User logs in as Superadmin
     And User create an Org
     #And User delets the Org
